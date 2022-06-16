@@ -1,4 +1,4 @@
-package tech.mehdi.employeemanager.AppConfiguration;
+package tech.mehdi.employeemanager.AppConfig;
 
 import com.sun.istack.NotNull;
 import org.springframework.boot.context.properties.ConfigurationProperties;
